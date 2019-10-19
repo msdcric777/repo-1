@@ -1,1 +1,1 @@
-FORM centos:latest
+FROM centos:latest
